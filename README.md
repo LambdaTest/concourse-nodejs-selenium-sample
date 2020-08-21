@@ -66,7 +66,7 @@ resources:
     type: git
     icon: github
     source:
-      uri: https://github.com/sushobhit-lt/nodejs-selenium-sample.git
+      uri: https://github.com/LambdaTest/concourse-nodejs-selenium-sample.git
 
 jobs:
   - name: 'Run over Lambdatest Hub'
