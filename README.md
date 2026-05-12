@@ -1,4 +1,4 @@
-# NodeJS Automation — TestMu AI (Formerly LambdaTest)
+# NodeJS Automation — TestMu AI (Formerly LambdaTest)
 NodeJS selenium automation sample test for TestMu AI Cloud GRID.
 
 ### Install Node package manager
